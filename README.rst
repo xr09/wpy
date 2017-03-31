@@ -67,7 +67,7 @@ Install
 
    Start a fresh terminal and try ``wpy``.
 
-6. Comprobar que la instalación fué exitosa:
+6. Try wpy:
 
    .. code-block:: bash
      
